@@ -1,0 +1,33 @@
+:root {
+  --black: #0B090A;
+  --white: #f5f3f4;
+  --red: #A4161A;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+
+.navbar {
+  padding: 1rem;
+}
+
+.menuButton {
+  background-color: #A4161A;
+}
+
+.clear {   
+  height: 20vh;
+}
+
+.footer {
+  padding: 0.5rem;
+  background-color: var(--black);
+  color: var(--white);
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+
+
